@@ -1,4 +1,4 @@
-﻿namespace KursEgor
+﻿namespace course
 {
     internal class Program
     {
